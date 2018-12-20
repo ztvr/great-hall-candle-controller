@@ -1,10 +1,11 @@
 # great-hall-candle-controller
 
-Remember those floating candles in the Great Hall in Harry Potter? Wouldn't it be fun to have a halloween decoration display that looked like that?
+Remember those floating candles in the Great Hall in Harry Potter?
+Wouldn't it be fun to have a halloween decoration display that looked like that?
 
 This project aims to recreate the floating candles of the great hall with motors controlling invisible suspension lines for fake candles!
 
-The majority of the project is written in Python (for my own personal learning experience) while a simulation is provided through Processing.
+The majority of the project is written in Python for Raspberry Pi (for my own personal learning experience) while a simulation is provided through py.Processing.
 
 See "Candle Construction & Mounting" for information on how to create your decorations!
 
